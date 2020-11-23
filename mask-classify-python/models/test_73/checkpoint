@@ -1,0 +1,2 @@
+model_checkpoint_path: "mask_model-100"
+all_model_checkpoint_paths: "mask_model-100"
