@@ -8,7 +8,7 @@
 
 
 
-#### Mask-classify-python
+### Mask-classify-python
 
 > **Python과 TensorFlow를 활용해 model을 만들고 학습시킵니다.**
 >
@@ -44,7 +44,7 @@
 
 
 
-#### Rex-mask-classify
+### Rex-mask-classify
 
 > freeze 시킨 pb 파일을 Rex Ai Computing board에서 사용할 수 있는 형태인 RKNN 모델 형태로 변환합니다.
 >
