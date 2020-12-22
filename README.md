@@ -24,7 +24,7 @@
 >
 > Optimizer : adam
 >
-> 
+> </br>
 >
 > **모델의 train, test accuracy**
 >
@@ -34,9 +34,9 @@
 >
 > 
 >
-> 
+> </br>
 >
-> **python으로 test input을 넣은 결과 입니다.**
+> **python으로 test input을 넣은 결과**
 >
 > ![image](https://user-images.githubusercontent.com/5088280/102866058-05dcfe00-447a-11eb-9ab5-8eddf0a2818c.png)
 >
