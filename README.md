@@ -2,7 +2,7 @@
 
 프로젝트 기간 : 2020.09.07~2020.09.18
 
-프로젝트 내용 : 얼굴 이미지를 입력 받고, 마스크를 썼는지 안썼는지 분류하는 프로그램입니다.
+프로젝트 내용 : Classify if somone is wearing mask or not simply
 
 개발환경 : Python3.6, Tensorflow1.10, C++, Rex (AI Computing Embedded Computer)
 
